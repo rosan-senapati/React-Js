@@ -1,15 +1,17 @@
-#Vite Plugin
-npm create vite@latest
+#Vite Plugin <br>
+<h1>npm create vite@latest</h1>
 
-#For Running
-npm run dev
+#For Running <br>
+<h1>npm run dev</h1>
 
-#BootStrap Plugin
-npm install react-bootstrap bootstrap
+#BootStrap Plugin   <br>
+<h1>npm install react-bootstrap bootstrap</h1>
 
-#Add Css Plugin
+#Add Css Plugin   <br>
+<pre>
+<h1>
 {
   /* The following line can be included in your src/index.js or App.js file */
 }
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';</h1> </pre>
 
